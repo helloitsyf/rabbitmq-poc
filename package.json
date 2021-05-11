@@ -5,7 +5,7 @@
   "main": "mq.js",
   "dependencies": {
     "amqplib": "^0.5.6",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {},
   "scripts": {
